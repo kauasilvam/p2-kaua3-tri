@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Esporte',
+    'Quantas champions o Real Madrid tem?',
+    'Atualmente, em 2024, tem 15'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Esporte',
+    'Quantas medalhas olimpicas o Brasil ganhou nos jogos de 2024?',
+    'Ganhou 20 medalhas ao total'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Cinema',
+    'Quantos filmes do homem aranha foram lançados?',
+    'Ao total, 8 filmes, 3 com Tobey, 2 com Andrew e 3 com Tom H.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Automotivo',
+    'Qual é o carro mais rápido do mundo?',
+    'Reconhecido pelo Guiness Book, o Koenigsegg Agera RS, atingiu 447,19 km/h'
 )

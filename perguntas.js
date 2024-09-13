@@ -1,13 +1,13 @@
 criaCartao(
     'Esporte',
     'Quantas champions o Real Madrid tem?',
-    'Atualmente, em 2024, tem 15'
+    'Atualmente, em 2024, ganhou sua 15° champions'
 )
 
 criaCartao(
     'Esporte',
     'Quantas medalhas olimpicas o Brasil ganhou nos jogos de 2024?',
-    'Ganhou 20 medalhas ao total'
+    'O Brasil ganhou 20 medalhas ao total'
 )
 
 criaCartao(
